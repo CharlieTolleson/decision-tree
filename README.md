@@ -1,3 +1,3 @@
 # decision-tree
 
-Decision Tree class.
+Decision Tree classifier

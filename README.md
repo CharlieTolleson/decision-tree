@@ -1,3 +1,3 @@
-# decision-tree
+# Decision Tree Classifier
 
-Decision Tree classifier
+From-scratch desision tree classifier
